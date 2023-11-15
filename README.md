@@ -2,9 +2,9 @@
 {
   "firstName": "Michał",
   "lastName": "Stanek",
-  "sex": "male 👨"
+  "sex": "male 👨",
   "age": 27,
-  "zodiacSymbol": "Pisces ♓"
+  "zodiacSymbol": "Pisces ♓",
   "localization": "Cracow, Poland",
   "skills": "HTML, CSS, JavaScript, React, Angular, Vue, PHP",
   "hobby": "coding 💻 and eating 🍕"
