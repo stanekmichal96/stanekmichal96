@@ -3,7 +3,7 @@
   "firstName": "Michał",
   "lastName": "Stanek",
   "sex": "male 👨"
-  "age": 26,
+  "age": 27,
   "zodiacSymbol": "Pisces ♓"
   "localization": "Cracow, Poland",
   "skills": "HTML, CSS, JavaScript, React, Angular, Vue, PHP",
